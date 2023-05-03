@@ -1,0 +1,30 @@
+
+  
+
+  
+  .btn.blue-btn {
+    background-color: #55acee;
+    box-shadow: 0px 5px 0px 0px #3C93D5;
+  }
+  
+  .btn.blue-btn:hover {
+     background-color: #6FC6FF;
+  }
+  
+  .btn.green-btn {
+    background-color: #2ecc71;
+    box-shadow: 0px 5px 0px 0px #15B358;
+  }
+  
+  .btn.green-btn:hover {
+    background-color: #48E68B;
+  }
+  
+  .btn.purple-btn {
+    background-color: #9b59b6;
+    box-shadow: 0px 5px 0px 0px #82409D;
+  }
+  
+  .btn.purple-btn:hover {
+    background-color: #B573D0;
+  }
