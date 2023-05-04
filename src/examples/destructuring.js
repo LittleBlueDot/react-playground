@@ -8,4 +8,6 @@ const frameworks = {
 
 // console.log(js);
 
+// console.log({...frameworks});
+
 module.exports = { frameworks }; //exporting module
